@@ -12,3 +12,4 @@ gem 'sass-rails'
 gem 'uglifier'
 gem 'ffaker'
 gem 'puma'
+gem 'rails_12factor', group: :production
